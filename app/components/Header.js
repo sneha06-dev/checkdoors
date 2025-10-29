@@ -11,7 +11,7 @@ export default function Header() {
            </div>
            <div className='col-md-6'>
               <ul className='header-list'>
-                <li className='list'><Link className='link' href='/'>Home</Link> </li>
+                <li className='list'><Link className='link' href='/'>About</Link> </li>
                   <li className='list'><Link className='link' href='service'>Service</Link> </li>
                     <li className='list'><Link className='link' href='feature'>Feature</Link> </li>
                       <li className='list'><Link className='link' href='testimonial'>Testimonial</Link> </li>
