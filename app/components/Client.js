@@ -10,7 +10,7 @@ export default function Client() {
                     <p className='client-title-2'>We have been working with some Fortune 500+ clients</p>
                  </div>
             <div className='col-md-2 col-sm-4'>
-            <Image src='/logo1.png' width={48} height={48} className="img-fluid client-image" alt='client image'/>
+            <Image src='/logo1.png' width={48} height={48} className="img-fluid client-image" alt='client '/>
             </div>
               <div className='col-md-2 col-sm-4'>
             <Image src='/logo2.png' width={48} height={48} className="img-fluid client-image" alt='client image'/>
