@@ -1,0 +1,500 @@
+.header-list .list{
+  list-style: none;
+  float: left;
+
+  padding:0 15px;
+
+}
+
+.list .a{
+text-decoration: none;
+padding:0 15px;
+
+}
+.link{
+  text-decoration: none;
+  color: black;
+}
+.header-list-1{
+  list-style: none;
+  float: left;
+ 
+padding:0 15px;
+
+}
+.header{
+  margin-bottom: 70px;
+  background-color: #F5F7FA;
+}
+
+.link1{
+text-decoration: none;
+padding:0 15px;
+color: black;
+}
+.list-1 .a{
+text-decoration: none;
+padding:0 15px;
+color: black;
+}
+
+.lesson {
+   background-color: #F5F7FA;
+   margin-bottom: 30px;
+}
+.lesson {
+  
+}
+.lesson-title-1{
+font-family: Bellefair;
+font-weight: 400;
+font-style: Regular;
+font-size: 44.47px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+color: #4D4D4D;
+margin-bottom: 0px;
+  margin: 30px 0px 0px 97px; 
+}
+.lesson-title-2{
+  font-family: Bellefair;
+font-weight: 400;
+font-style: Regular;
+font-size: 44.47px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+margin: 0px 0px 0px 97px; 
+color:#4CAF4F;
+ 
+}
+.lesson-title-3{
+  font-family: Inter;
+font-weight: 400;
+font-style: Regular;
+font-size: 15.14px;
+leading-trim: NONE;
+line-height: 16.71px;
+letter-spacing: 0%;
+margin: 20px 0px 0px 97px; 
+color: #717171;
+}
+.lesson-img{
+  margin: 30px 0px 0px 151px;
+}
+.lesson-btn{
+  font-family: Avenir;
+font-weight: 400;
+font-style: Roman;
+font-size: 18px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 5%;
+background-color: #22c03c;
+color: white;
+padding: 15px 40px;
+margin: 30px 0px 0px 97px; 
+border-radius: 10px 10px 10px 10px;
+
+}
+.client{
+  margin-top: 60px;
+}
+.client .col-md-2{
+  margin-top: 30px;
+}
+.client-title-1{
+  text-align: center;
+  font-family: Inter;
+font-weight: 600;
+font-style: Semi Bold;
+font-size: 36px;
+leading-trim: NONE;
+line-height: 44px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+.client-title-2{
+  font-family: Inter;
+font-weight: 600;
+font-style: Semi Bold;
+font-size: 26px;
+leading-trim: NONE;
+line-height: 22px;
+letter-spacing: 0%;
+text-align: center;
+color: #717171;
+}
+.manage .col-md-4{
+  margin-top: 30px;
+  text-align: center;
+}
+.manage-title1{
+  font-family: Inter;
+font-weight: 600;
+font-style: Semi Bold;
+font-size: 36px;
+leading-trim: NONE;
+line-height: 44px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 0px;
+margin-top: 60px;
+
+}
+
+.manage-sub{
+  margin-top: 10px;
+  font-family: Inter;
+font-weight: 400;
+font-style: Regular;
+font-size: 18px;
+leading-trim: NONE;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: center;
+color: #717171;
+}
+.manage-title{
+  font-family: Inter;
+font-weight: 700;
+font-style: Bold;
+font-size: 28px;
+leading-trim: NONE;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 0px;
+color: #221e1e;
+}
+.manage-title3{
+  font-family: Inter;
+font-weight: 700;
+font-style: Bold;
+font-size: 28px;
+leading-trim: NONE;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: center;
+color: #221e1e;
+}
+.manage-sub1{
+  font-family: Inter;
+font-weight: 400;
+font-style: Regular;
+font-size: 14px;
+leading-trim: NONE;
+line-height: 20px;
+letter-spacing: 0%;
+text-align: center;
+color: #717171;
+}
+.unseen-title{
+  font-family: Inter;
+font-weight: 600;
+font-style: Semi Bold;
+font-size: 36px;
+leading-trim: NONE;
+line-height: 44px;
+letter-spacing: 0%;
+color: #242020;
+margin-top: 60px;
+}
+.unseen-title1{
+  font-family: Inter;
+font-weight: 400;
+font-style: Regular;
+font-size: 14px;
+leading-trim: NONE;
+line-height: 20px;
+letter-spacing: 0%;
+color: #717171;
+}
+.unseen-btn{
+      font-family: Avenir;
+font-weight: 400;
+font-style: Roman;
+font-size: 18px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 5%;
+background-color: #22c03c;
+color: white;
+padding: 15px 40px;
+border-radius: 10px 10px 10px 10px;
+margin-top: 25px;
+}
+.unseen{
+  margin-top: 40px;
+}
+.unseen-img{
+  margin: -5px 0px 0px 28px;
+}
+.business {
+  background-color: #F5F7FA;
+  margin-bottom: 30px;
+}
+.business-title1{
+  font-family: Inter;
+font-weight: 600;
+font-style: Semi Bold;
+font-size: 36px;
+leading-trim: NONE;
+line-height: 44px;
+letter-spacing: 0%;
+margin-top: 60px;
+margin-bottom: 0px;
+
+
+}
+.business-title2{
+   font-family: Inter;
+font-weight: 600;
+font-style: Semi Bold;
+font-size: 36px;
+leading-trim: NONE;
+line-height: 44px;
+letter-spacing: 0%;
+color: #4CAF4F;
+}
+.business-sub{
+  font-family: Inter;
+font-weight: 400;
+font-style: Regular;
+font-size: 16px;
+leading-trim: NONE;
+line-height: 24px;
+letter-spacing: 0%;
+
+}
+@media (max-width:575.98px) {
+  .lesson-title-1 {
+	 margin: 30px 0 0 0 !important;
+
+	text-align: center !important;
+}
+ .lesson-title-2 {
+	 margin: 30px 0 0 0 !important;
+
+	text-align: center !important;
+}
+
+ .lesson-title-3 {
+	 margin: 30px 0 0 0 !important;
+
+	text-align: center !important;
+}
+.lesson-img {
+	 margin: 30px 0 0 0px !important;
+}
+.client-image{
+  margin: 0px 160px;
+}
+.unseen-img {
+	 margin: -5px 0 0 0px; 
+}
+
+}
+.design-title1{
+  font-family: Inter;
+font-weight: 600;
+font-style: Semi Bold;
+font-size: 36px;
+leading-trim: NONE;
+line-height: 44px;
+letter-spacing: 0%;
+margin-top: 30px;
+
+}
+.design-title2{
+  font-family: Inter;
+font-weight: 400;
+font-style: Regular;
+font-size: 14px;
+leading-trim: NONE;
+line-height: 20px;
+letter-spacing: 0%;
+
+}
+.design-btn{
+     font-family: Avenir;
+font-weight: 400;
+font-style: Roman;
+font-size: 18px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 5%;
+background-color: #22c03c;
+color: white;
+padding: 15px 40px;
+border-radius: 10px 10px 10px 10px;
+margin-top: 25px;
+}
+.design{
+  margin-top: 60px;
+}
+.airpod-title{
+  font-family: Inter;
+font-weight: 500;
+font-style: Medium;
+font-size: 16px;
+leading-trim: NONE;
+line-height: 24px;
+letter-spacing: 0%;
+vertical-align: middle;
+
+}
+.airpod-title2{
+  font-family: Inter;
+font-weight: 600;
+font-style: Semi Bold;
+font-size: 20px;
+leading-trim: NONE;
+line-height: 28px;
+letter-spacing: 0%;
+vertical-align: middle;
+color: #4CAF4F;
+}
+.airpod-sub{
+  font-family: Inter;
+font-weight: 400;
+font-style: Regular;
+font-size: 16px;
+leading-trim: NONE;
+line-height: 24px;
+letter-spacing: 0%;
+vertical-align: middle;
+color: #89939E;
+}
+.airpod-sub2{
+  font-family: Inter;
+font-weight: 600;
+font-style: Semi Bold;
+font-size: 20px;
+leading-trim: NONE;
+line-height: 28px;
+letter-spacing: 0%;
+vertical-align: middle;
+color: #4CAF4F;
+}
+.airpods{
+ background-color:#F5F7FA ;
+}
+.airpod-img{
+  padding: 15px 0 0 15px;
+}
+.caring-title{
+  font-family: Inter;
+font-weight: 600;
+font-style: Semi Bold;
+font-size: 36px;
+leading-trim: NONE;
+line-height: 44px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+.caring-title2{
+  font-family: Inter;
+font-weight: 400;
+font-style: Regular;
+font-size: 16px;
+leading-trim: NONE;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+.caring-bg-img{
+  background-image: url("/caring1.png");
+  background-position: center;
+  background-repeat: no-repeat;
+   padding: 20px;
+  height: 500px; /* Adjust as needed */
+  display: flex;
+  align-items: flex-end;
+
+}
+.caring-bg {
+  background: #F5F7FA ;
+  border-radius: 10px;
+  padding: 20px;
+  width: 100%;
+}
+.caring-sub1{
+  font-family: Inter;
+font-weight: 600;
+font-style: Semi Bold;
+font-size: 22px;
+leading-trim: NONE;
+line-height: 28px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+.caring-sub2 {
+ font-family: Inter;
+font-weight: 600;
+font-style: Semi Bold;
+font-size: 20px;
+leading-trim: NONE;
+line-height: 28px;
+letter-spacing: 0%;
+vertical-align: middle;
+text-align: center;
+color: #4CAF4F;
+
+}
+.caring-bg-img2{
+  background-image: url("/caring2.png");
+  background-position: center;
+  background-repeat: no-repeat;
+   padding: 20px;
+  height: 500px; /* Adjust as needed */
+  display: flex;
+  align-items: flex-end;
+
+}
+.caring-bg-img3{
+  background-image: url("/caring3.png");
+  background-position: center;
+  background-repeat: no-repeat;
+   padding: 20px;
+  height: 500px; /* Adjust as needed */
+  display: flex;
+  align-items: flex-end;
+
+}
+.caring .caring-top{
+  margin-top: -90px;
+}
+.library{
+  background-color: #F5F7FA ;
+  padding-bottom: 20px;
+}
+.library-title{
+  font-family: Inter;
+font-weight: 400;
+font-style: Semi Bold;
+font-size: 70px;
+leading-trim: NONE;
+line-height: 60px;
+letter-spacing: 0%;
+text-align: center;
+padding: 15px 25px 25px 15px;
+margin-top: 25px;
+
+
+
+}
+.lib-btn{
+  padding: 14px 32px 14px 32px;
+  gap: 8px;
+ color: white;
+  background-color: #4CAF4F;
+  text-align: center;
+  margin-left: 470px;
+}
+
